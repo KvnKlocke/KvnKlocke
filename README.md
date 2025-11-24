@@ -1,6 +1,15 @@
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Backend+Developer+(NestJS+%2F+TypeScript);Frontend+Developer+(Vue.js);Coffee-Driven+Development+%E2%98%95" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Full+Stack+Developer;Backend+Developer+  (NestJS+%2F+TypeScript);Frontend+Developer+(Vue.js);Coffee-Driven+Development+%E2%98%95" alt="Typing SVG" /></a>
 </p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevin-klocke-50a3011b2/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<br/>
 
 - 👋 Hi, I’m @KvnKlocke
 - 👀 I’m interested in coding with Symfony and VueJs
