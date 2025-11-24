@@ -5,7 +5,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/kevin-klocke-50a3011b2/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/kevin-klocke-50a3011b2/"><img width="32px" color="#36BCF7FF" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
