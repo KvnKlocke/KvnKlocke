@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Full+Stack+Developer;Backend+Developer+  (NestJS+%2F+TypeScript);Frontend+Developer+(Vue.js);Coffee-Driven+Development+%E2%98%95" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Full+Stack+Developer;Backend+Developer+(NestJS+%2B+Typescript);Frontend+Developer+(Vue.js);Coffee-Driven+Development+%E2%98%95" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
